@@ -13,3 +13,10 @@ bundle install
 bundle exec rspec
 ```
 
+## Available Subsystems
+
+- **ActiveRecord**: Basic model associations and database operations
+- **ActiveRecordMigrations**: Database migration testing
+- **ActiveJob**: Background job processing
+- **Generic**: Core Rails utilities and helpers
+
